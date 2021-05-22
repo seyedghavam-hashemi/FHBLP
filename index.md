@@ -41,7 +41,7 @@ img {vertical-align: middle;}
 .active {
   background-color: #717171;
 }
-
+/**/
 /* Fading animation */
 .fade {
   -webkit-animation-name: fade;
