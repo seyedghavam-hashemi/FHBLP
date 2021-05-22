@@ -197,11 +197,11 @@ margin:0;
 </div>
 
 <div style="text-align:center">  
-  <img src="images/imgenterance/1.jpg" style="width:65%"  
+  <img src="images/imgenterance/1.jpg" style="width:65%">  
 </div>
 <br>
 <div style="text-align:center">  
-  <img src="images/imgenterance/2.jpg" style="width:65%"
+  <img src="images/imgenterance/2.jpg" style="width:65%">
 </div>
 <br>
 <div style="text-align:center">  
